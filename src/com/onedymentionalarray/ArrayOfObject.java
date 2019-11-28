@@ -6,9 +6,9 @@ public class ArrayOfObject {
 	public static void main(String[] args) {
 		
 		
-		Student s1 = new Student("Aditi", 1);
-		Student s2 = new Student("Mrigank", 2);
-		Student s3 = new Student("Babu", 3);
+		Student s1 = new Student("Aditi1", 1);
+		Student s2 = new Student("Aditi2", 2);
+		Student s3 = new Student("Aditi3", 3);
 		
 		Student[] student = new Student[5]; //Array of reference
 		student[0] = s1;
